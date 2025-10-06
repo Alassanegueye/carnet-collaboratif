@@ -1,3 +1,7 @@
 carnet collaboratif alice et bob taches alice -configurer l'environnemnet de developpement 
 TACHES BOB - Resviser la documentation 
+<<<<<<< HEAD
 carnet collaboratif - version Personnelle 
+=======
+carnet collaboratif - version entreprise 
+>>>>>>> ab00dbed2c08cd3445af8b58ed1a5f237862b3d7
