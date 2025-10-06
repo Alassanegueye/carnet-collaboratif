@@ -1,2 +1,3 @@
 carnet collaboratif alice et bob taches alice -configurer l'environnemnet de developpement 
 TACHES BOB - Resviser la documentation 
+carnet collaboratif - version Personnelle 
